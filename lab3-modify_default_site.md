@@ -14,7 +14,7 @@ to modify the html title tag
 
 ```
 original | <title>Welcome to nginx!</title>
-modified | <title>***PS-default*** to nginx!</title>
+modified | <title>***PS-default*** nginx!</title>
 ```
 
 Check nginx config syntax
