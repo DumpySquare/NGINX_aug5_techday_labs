@@ -68,7 +68,7 @@ Get default nginx page via curl
 >     <!DOCTYPE html>
 >     <html>
 >     <head>
->     <title>YYWelcome to nginx!</title>
+>     <title>Welcome to nginx!</title>
 >     <style>
 >         body {
 >             width: 35em;
@@ -91,4 +91,7 @@ Get default nginx page via curl
 >     </body>
 >     </html>
 
+Show all the nginx config
+
+`sudo nginx -T`
 
