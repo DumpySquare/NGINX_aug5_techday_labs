@@ -13,7 +13,7 @@ Download a little custom html page
 
 modify nginx config to use new html file and add some other listening servers
 
-sudo vim /etc/nginx/nginx.conf
+`sudo vim /etc/nginx/nginx.conf`
 
 Add the following server blocks in the http context, above the current listen 83 server
 >        server {
